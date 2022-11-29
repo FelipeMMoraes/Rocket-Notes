@@ -20,7 +20,7 @@ Construímos uma API completa utilizando Node.js e Express. Utilizamos o Insomni
 
 Estrutura do banco de dados:
 
-!["Estrutura do banco de dados"](https://github.com/FelipeMMoraes/Rocket-Notes/issues/1#issue-1468068393)
+![database-structure](https://user-images.githubusercontent.com/94074894/204541261-47faa5d2-2307-4f1f-afb1-8ac8b9bf476e.png)
 
 ## :computer: Tecnologias
 
